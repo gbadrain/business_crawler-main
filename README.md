@@ -166,4 +166,12 @@ Market Research Analyst & Aspiring Data Analyst
 *   **GitHub**: [gbadrain](https://github.com/gbadrain)
 *   **LinkedIn**: [gurpreet-badrain](https://www.linkedin.com/in/gurpreet-badrain)
 *   **Email**: gbadrain@gmail.com
-*   **Streamlit**: [gbadrain-Machine Learnning](https://gbadrain-business-crawler-main-streamlit-app-5gkpd0.streamlit.app/) 
+*   **Streamlit**: [gbadrain-Machine Learnning](https://gbadrain-business-crawler-main-streamlit-app-5gkpd0.streamlit.app/)
+
+## Acknowledgements
+
+I’d like to thank a few AI tools for helping streamline parts of the development without replacing the core ideas:
+
+- **GitHub Copilot** – Assisted with targeted code suggestions and boilerplate.  
+- **Google Gemini** – Offered brief insights and review feedback.  
+
