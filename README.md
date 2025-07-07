@@ -86,49 +86,6 @@ This will:
 | `entities`   | Extracted entities (e.g., persons, organizations) |
 | `keywords`   | Extracted keywords (placeholder for future use) |
 
-## Testing
-
-To run the tests, ensure you have `pytest` installed (it's included in `requirements.txt`). Then, navigate to the project root and run:
-
-```bash
-pytest
-```
-
-
-
-## Getting Started
-
-This section guides you through setting up, running, and exploring the Business Crawler project.
-
-### 1. Installation
-
-First, clone the repository and install the necessary dependencies.
-
-```bash
-git clone https://github.com/gbadrain/business-crawler.git
-cd business-crawler
-pip install -e .
-```
-
-### 2. Running the Crawler
-
-Execute the crawler from your command line with your desired search queries.
-
-```bash
-business-crawler "AI in healthcare" "Natural Language Processing"
-```
-
-You can also specify a custom blacklist file to skip certain domains:
-
-```bash
-business-crawler "AI in healthcare" --blacklist my_blacklist.txt
-```
-
-The crawler will:
-*   Perform live searches using DuckDuckGo.
-*   Scrape content from the top URLs.
-*   Extract entities from the scraped content.
-*   Save results in the `output/` directory.
 
 ### 3. Exploring Results and Visualizations
 
@@ -161,8 +118,6 @@ pytest
 ```
 
 This will execute all unit and integration tests, providing feedback on the project's stability.
-
-
 
 ---
 
