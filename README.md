@@ -1,6 +1,7 @@
 # Business Crawler
 
 This project is a modular and extensible pipeline that automates web research at scale. It performs live searches, scrapes readable content, summarizes insights, and exports structured data for analysis or downstream applications.
+![Screenshot 2025-07-07 at 3 41 46 PM](https://github.com/user-attachments/assets/9b9d296b-ceb7-4528-8855-b0f4a956948f)
 
 ## Features
 
@@ -44,8 +45,8 @@ pip install .
 Alternatively, you can clone the repository and install in editable mode for development:
 
 ```bash
-git clone https://github.com/gbadrain/business-crawler.git
-cd business-crawler
+git clone https://github.com/gbadrain/business_crawler-main.git
+cd business_crawler-main
 pip install -e .
 ```
 
@@ -134,6 +135,8 @@ The crawler will:
 After running the crawler, you can explore the generated data and visualizations:
 
 *   **Raw Data**: Check the `output/` directory for `_all_queries_merged.csv` (and `.json`) for the combined dataset, and individual CSVs for each query.
+*   ![Screenshot 2025-07-07 at 3 43 50 PM](https://github.com/user-attachments/assets/adea36f1-e4ec-4921-9730-cf41ec482020)
+
 *   **Domain Statistics**: Review `output/_domain_stats_summary.csv` for success/failure rates per domain.
 *   **Interactive Dashboard (Streamlit)**: For a more interactive and user-friendly experience, run the Streamlit application:
 
@@ -142,6 +145,12 @@ After running the crawler, you can explore the generated data and visualizations
     ```
 
     This will open a web browser with the dashboard, allowing you to explore the data with key performance indicators (KPIs), interactive Plotly doughnut charts, and detailed data tables.
+![Screenshot 2025-07-07 at 3 42 10 PM](https://github.com/user-attachments/assets/9db65a4d-c735-410f-a4b6-db26a4ee6e1a)
+![Screenshot 2025-07-07 at 3 42 31 PM](https://github.com/user-attachments/assets/634f525b-e87c-4e46-8894-1747b717cec2)
+![Screenshot 2025-07-07 at 3 42 46 PM](https://github.com/user-attachments/assets/f096d49e-01e1-4172-9472-2c2b9bf22d15)
+![Screenshot 2025-07-07 at 3 42 54 PM](https://github.com/user-attachments/assets/99a80a75-3724-4c16-b963-4a348cf67fae)
+![Screenshot 2025-07-07 at 3 43 28 PM](https://github.com/user-attachments/assets/c70fc118-575e-446c-a086-9fff6259cd14)
+
 
 ### 4. Running Tests
 
