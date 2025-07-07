@@ -1,0 +1,17 @@
+domain,successes,failures
+pmc.ncbi.nlm.nih.gov,3,0
+builtin.com,2,0
+www.coursera.org,2,0
+medwave.io,1,0
+www.mckinsey.com,1,0
+www.bcg.com,1,0
+pubmed.ncbi.nlm.nih.gov,1,0
+www.deeplearning.ai,1,0
+en.wikipedia.org,1,0
+www.geeksforgeeks.org,1,0
+www.datacamp.com,1,0
+deepai.org,1,0
+www.tutorialspoint.com,1,0
+www.techtarget.com,1,0
+www.healthaffairs.org,0,1
+www.nytimes.com,0,1

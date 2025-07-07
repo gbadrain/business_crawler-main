@@ -1,0 +1,13 @@
+[tool.black]
+line-length = 88
+target-version = ['py39']
+
+[tool.ruff]
+line-length = 88
+select = ["E", "F", "I", "W", "C", "N", "D", "B", "A", "T", "SIM", "PTH", "ISC", "ERA", "PL", "PIE", "RSE", "RUF"]
+ignore = ["D100", "D104", "D105", "D107", "E501"]
+
+[tool.ruff.per-file-ignores]
+"__init__.py" = ["F401"]
+"tests/*" = ["D"]
+"business_crawler.ipynb" = ["E", "F", "I", "W", "C", "N", "D", "B", "A", "T", "SIM", "PTH", "ISC", "ERA", "PL", "PIE", "RSE", "RUF"]

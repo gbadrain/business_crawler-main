@@ -1,0 +1,13 @@
+ddgs
+requests
+trafilatura
+pandas
+spacy
+pytest
+ruff
+black
+tqdm
+matplotlib
+seaborn
+streamlit
+plotly
