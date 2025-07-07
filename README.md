@@ -175,7 +175,7 @@ Market Research Analyst & Aspiring Data Analyst
 *   **GitHub**: [gbadrain](https://github.com/gbadrain)
 *   **LinkedIn**: [gurpreet-badrain](https://www.linkedin.com/in/gurpreet-badrain)
 *   **Email**: gbadrain@gmail.com
-*   **Streamlit**: [gbadrain-Machine Learnning](https://gbadrain-business-crawler-main-streamlit-app-5gkpd0.streamlit.app/)
+*   **Streamlit**: [gbadrain-Web Crawling](https://gbadrain-business-crawler-main-streamlit-app-5gkpd0.streamlit.app/)
 
 ## Acknowledgements
 
