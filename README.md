@@ -124,7 +124,7 @@ This will execute all unit and integration tests, providing feedback on the proj
 ## Contact & Support
 
 **Gurpreet Singh Badrain**
-Market Research Analyst & Aspiring Data Analyst
+Market Research & Data Analyst
 
 *   **My portfolio**: [Data Guru](https://your-portfolio-link.com) (Replace with actual link)
 *   **GitHub**: [gbadrain](https://github.com/gbadrain)
